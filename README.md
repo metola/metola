@@ -1,9 +1,16 @@
-<h1 align="center">Hi 👋, I'm Alex</h1>
+<h1 align="center">Hi 👋, I'm Alex Metola</h1>
 <h3 align="center">Full Stack Web Developer Programmer, more oriented to the Backend part. I love programming, and having challenges to solve. Always learning.</h3>
+
+- 🔭 I’m currently working on [Constellation](https://constellation.es/)
+
+- 🌱 I’m currently learning **AWS,Terraform,Vue,Node**
+
+- 👨‍💻 All of my projects are available at [https://github.com/metola](https://github.com/metola)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/metola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="metola" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/alexmetola/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alexmetola/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/alex-metola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="alex-metola" height="30" width="40" /></a>
 </p>
 
